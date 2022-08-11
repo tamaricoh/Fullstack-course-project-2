@@ -1,6 +1,6 @@
 # Fullstack-course-project-2
 
-## This is an online store website
+## An online store website
 
 ---
 
