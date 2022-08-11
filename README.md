@@ -23,6 +23,8 @@ This is the second project of the fullstack course by [Yaniv Arad](https://www.y
 3. Copy and paste this to your App.js file
 
    ```
+   import logo from "./logo.svg";
+   import "./App.css";
    import { BrowserRouter } from "react-router-dom";
    import SP_main from "./SP_main";
    function App() {
