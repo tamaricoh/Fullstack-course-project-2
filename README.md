@@ -14,6 +14,7 @@ This is the second project of the fullstack course by [Yaniv Arad](https://www.y
 ### How
 
 1. Create a React App on your VSC.
+   And add those files to the app.
 2. Download to your app two moudles -
 
    - react-router-dom
