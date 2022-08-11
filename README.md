@@ -2,7 +2,6 @@
 
 ## An online store website
 
----
 
 ### Who
 
