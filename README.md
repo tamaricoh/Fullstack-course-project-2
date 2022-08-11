@@ -16,7 +16,7 @@ The main functions are :
 4. Buyers management.
 5. Transactions tracking.
 
-This a single page application (SPA) that uses 'react-router-dom' module to set current component and to set the URL.
+This is a single page application (SPA) that uses 'react-router-dom' module to set current component and to set the URL.
 It also uses 'react-redux' module as a local database to store the data.
 
 ### How
