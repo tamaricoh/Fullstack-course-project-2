@@ -23,12 +23,14 @@ It also uses 'react-redux' module as a local database to store the data.
 
 1. Create a React App on your VSC.
    Then, add those files to the app.
-2. Download to your app two modules -
+2. Download to your app three modules -
 
    - react-router-dom
    ``` npm install react-router-dom ```
    - react-redux
    ``` npm install react-redux ```
+   - redux
+   ``` npm install redux ```
 
 3. Your App.js file should look like the following :
 
